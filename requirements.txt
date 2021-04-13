@@ -1,4 +1,10 @@
-
-fastai
-voila
-ipywidgets
+streamlit==0.52.2
+fastai==2.3.0
+IPython==5.5.0
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.0+cpu 
+-f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.8.1+cpu 
+-f https://download.pytorch.org/whl/torch_stable.html
+torchaudio==0.7.0
+requests==2.21.0
